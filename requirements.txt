@@ -1,0 +1,8 @@
+streamlit
+yfinance
+plotly
+pandas
+numpy
+scipy
+newsapi-python
+streamlit-autorefresh
